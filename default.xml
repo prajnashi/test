@@ -3,7 +3,7 @@
    <remote  name="korg"
            fetch="git://android.git.kernel.org/"
            review="review.source.android.com" />
-   <!-- gstreamer remote -->
+   <!-- gstreamer remote , this is test_01 -->
    <remote  name="gstreamer"
            fetch="git://github.com/prajnashi/"
            review="review.source.android.com" /> 
